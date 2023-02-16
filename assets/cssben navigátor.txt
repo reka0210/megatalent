@@ -1,0 +1,15 @@
+11408 --> masthead (Nagykép)
+3037  --> nagyképen a gomb színe
+11341 --> navbar (menü)
+11386 --> menüben a logó mérete
+11399 --> menüben a logó méretének összemenete görgetésre
+11646-->carrier-modal .close-modal ez a megnyitott kép jobb felső bezáró X méretezése
+padding: 1.25rem 2.5rem;
+font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+ gyorstárcsázás: <a href="tel:+36"><strong></strong></a>
+
+reveal fade-left -->  H2 classhoz hozáadtam a reveal fade left-et ami jobbról beúszás
