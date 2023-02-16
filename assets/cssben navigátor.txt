@@ -1,5 +1,0 @@
-11408 --> masthead (Nagykép)
-3037  --> nagyképen a gomb színe
-11341 --> navbar (menü)
-11386 --> menüben a logó mérete
-11399 --> menüben a logó méretének összemenete görgetésre
